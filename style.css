@@ -1,0 +1,28 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+    margin: 20px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 90%;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(241, 241, 12), rgb(202, 153, 47)) ;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
